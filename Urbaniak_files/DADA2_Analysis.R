@@ -209,4 +209,3 @@ plot_bar(ps.top20, x = "Sample_Type", fill = "Family") + facet_wrap(~Isolation_s
 plot_bar(ps.top20, x = "Sample_Type", fill = "Phylum") + facet_wrap(~Isolation_source, scales = "free_x")
 
 # End of dada2 Tutorial
-
