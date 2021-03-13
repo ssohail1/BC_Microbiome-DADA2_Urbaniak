@@ -1,4 +1,4 @@
-# BC_Microbiome-DADA2_thesis
+# BC_Microbiome-DADA2_Urbaniak
 
 **Analysis of Urbaniak data for MS project**
 
