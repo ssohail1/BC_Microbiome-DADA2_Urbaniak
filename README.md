@@ -12,4 +12,4 @@ Analysis includes: DADA2 Analysis, Phylogenetic Analysis with UniFrac plots, and
 
 The data available has merged reads and are pre-filtered.
 
-Data Availability: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4018903/
+Data Available: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4018903/
