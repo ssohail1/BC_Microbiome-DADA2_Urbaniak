@@ -1,6 +1,6 @@
 # BC_Microbiome-DADA2_Urbaniak
 
-**Analysis of Urbaniak data for MS project**
+**Analysis of Urbaniak breast cancer microbiome data**
 
 Paper: Urbaniak, C. et al. Microbiota of human breast tissue. Appl. Environ. Microbiol. 80, 3007–3014 (2014).
 
