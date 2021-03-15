@@ -12,3 +12,6 @@ R
 - Biostrings
 - ggplot2
 
+dada2: to filter and trim files, assign taxonomy, and generate an ASV table 
+
+phyloseq and ggplot2: to visualize the microbial abundance at different taxonomic levels
