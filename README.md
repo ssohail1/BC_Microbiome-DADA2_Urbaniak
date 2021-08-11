@@ -8,3 +8,16 @@ The microbiome is a collection of bacteria that reside in tissues where in cance
 R: Bioconductor, dada2, phyloseq, Biostrings, ggplot2
 
 #### Files in repo
+- dada2:
+  - DADA2_Analysis.R: Rscript for running DADA2 pipeline 
+- phylogenetic:
+  - Phylogenetic_Analysis.R: Rscript for phylogenetic analyses where final product is a tree that can be used as input for constructing UniFrac plots. UniFrac is for calculating microbial community and abundance, and can be made in two forms weighted and unweighted.
+- proportional_abundance:
+  - ProportionalAbundance_Analysis.R: Rscript to visualize the phyloseq object in the form of abundance plots at the phylum, family, and genus levels.
+
+#### How to use
+Clone repository into personal directory using this command,  
+`git clone https://github.com/ssohail1/BC_Microbiome-DADA2_Urbaniak.git`
+
+To move into BC_Microbiome-DADA2_Urbaniak directory use `cd`,  
+`cd BC_Microbiome-DADA2_Urbaniak`
